@@ -1,6 +1,6 @@
 # Pong Game
 
-![ Pong GIF](pong.gif) / ! [](pong.gif)
+![ Pong GIF](pong.gif)
 
 ## Instruções para execução:
 
