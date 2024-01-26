@@ -7,7 +7,7 @@
 **Necessário:**
 - JDK 11
 
-**Baixe o reposirório e certifique-se de ter na mesma pasta os seguintes arquivos:**
+**Baixe o repositório e certifique-se de ter na mesma pasta os seguintes arquivos:**
 
 ```bash
 Ball.java
